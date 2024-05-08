@@ -226,6 +226,7 @@ public class BST<T extends Comparable<T>>
     {
         count = 0;
         inOrderTraversal(root, value, rectangle);
+         // Notify if there is no such service found in the given rectangle
         if (count == 0)  System.out.println("No such service found in the given rectangle");
     }
 
