@@ -1,4 +1,4 @@
-# COSC 2440 Assignment 2 - Group 14
+# COSC 2440 - Assignment 2 - Group 14
 
 ## Description
 
@@ -15,7 +15,7 @@
 - Before running the application, run **_DataGenerator.class_** first.
   - You can change the amount of data by edit the **_MAX_DATA_POINTS_**
 
-    ![Screen shot of MAX_DATA_POINTS]([image_url](https://raw.githubusercontent.com/spjk1910/Data-Structur-Algorithms-Group-Project/dc3d6a6365cb862a104985dc382d69a30a7ad211/MAX_DATA_POINTS.png))
+    ![Screenshot of **_MAX_DATA_POINTS_**](https://github.com/spjk1910/Data-Structur-Algorithms-Group-Project/blob/main/MAX_DATA_POINTS.png?raw=true)
 
 ## Usage
 - Start the application by compiling and running the **_Main.java_**
