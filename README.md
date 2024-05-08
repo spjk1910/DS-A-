@@ -22,4 +22,10 @@
 
 ## Contributing
 
+- 3986602 - Phan Han Duc Khang ([KuuuHan](https://github.com/KuuuHan))
+- 3978955 - Huynh Thai Duong
+- 3931082 - Nguyen Tien Minh Quan
+- 4027648 - Doan Phan Thuy Trang ([spjdk1910](https://github.com/spjk1910))
+
 ## Licence
+For educational purposes only!
